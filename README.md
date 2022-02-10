@@ -4,7 +4,9 @@ Sou um desenvolvedor JAVA BACK-End e estou a procura de adquirir experiência no
 
 Conhecimentos:
 
-Javascript | Typescript | Angular | HTML | CSS | Sass | Bootstrap | Laravel | Vue | Next | React
+![image](https://user-images.githubusercontent.com/99406765/153464020-54e770d0-77c3-4264-bd14-9fa1bb803849.png)
+
+Javascript | HTML | CSS | JAVA | Android
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
