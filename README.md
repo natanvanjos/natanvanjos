@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @natanvanjos
+Olá 👋, eu sou o Natan dos Anjos, Desenvolvedor JAVA Back-End.
+Sou um desenvolvedor JAVA BACK-End e estou a procura de adquirir experiência no mercado de trabalho.
+
+
+Conhecimentos:
+
+Javascript | Typescript | Angular | HTML | CSS | Sass | Bootstrap | Laravel | Vue | Next | React
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
