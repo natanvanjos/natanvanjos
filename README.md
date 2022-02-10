@@ -1,5 +1,5 @@
 Olá 👋, eu sou o **Natan dos Anjos**, Desenvolvedor JAVA Back-End.
-Sou um desenvolvedor JAVA BACK-End e estou a procura de adquirir experiência no mercado de trabalho.
+Estou a procura de aprimorar meus conhecimentos na área de tecnologia, mais precisamente no desenvolvimento de aplicações.
 
 
 **Conhecimentos:**
